@@ -1,0 +1,950 @@
+{
+  "orders": [
+    {
+      "id": "eb9b",
+      "items": [
+        {
+          "id": 11,
+          "name": "Fish Curry",
+          "price": 600,
+          "category": "non-veg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 600,
+      "finalAmount": 510,
+      "couponCode": "SAVE15",
+      "orderDate": "2024-12-18T21:11:47.807Z"
+    },
+    {
+      "id": "dfc1",
+      "items": [
+        {
+          "id": 11,
+          "name": "Fish Curry",
+          "price": 600,
+          "category": "non-veg",
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "name": "Paneer Tikka",
+          "price": 250,
+          "category": "veg",
+          "quantity": 2
+        }
+      ],
+      "totalAmount": 1100,
+      "finalAmount": 1100,
+      "couponCode": "SAVE15",
+      "orderDate": "2024-12-18T21:14:58.128Z"
+    },
+    {
+      "id": "104e",
+      "items": [
+        {
+          "id": 11,
+          "name": "Fish Curry",
+          "price": 600,
+          "category": "non-veg",
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "name": "Paneer Tikka",
+          "price": 250,
+          "category": "veg",
+          "quantity": 2
+        }
+      ],
+      "totalAmount": 1100,
+      "finalAmount": 1100,
+      "couponCode": "SAVE15",
+      "orderDate": "2024-12-18T21:15:01.095Z"
+    },
+    {
+      "id": "f196",
+      "items": [
+        {
+          "id": 12,
+          "name": "Egg Curry",
+          "price": 400,
+          "category": "non-veg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 400,
+      "finalAmount": 360,
+      "couponCode": "OFF10",
+      "orderDate": "2024-12-18T21:36:56.069Z"
+    },
+    {
+      "id": "575b",
+      "items": [
+        {
+          "id": 12,
+          "name": "Egg Curry",
+          "price": 400,
+          "category": "non-veg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 400,
+      "finalAmount": 360,
+      "couponCode": "OFF10",
+      "orderDate": "2024-12-18T21:37:05.883Z"
+    },
+    {
+      "id": "35b5",
+      "items": [
+        {
+          "id": 12,
+          "name": "Egg Curry",
+          "price": 400,
+          "category": "non-veg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 400,
+      "finalAmount": 360,
+      "couponCode": "OFF10",
+      "orderDate": "2024-12-18T21:37:06.763Z"
+    },
+    {
+      "id": "ea0e",
+      "items": [
+        {
+          "id": 12,
+          "name": "Egg Curry",
+          "price": 400,
+          "category": "non-veg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 400,
+      "finalAmount": 360,
+      "couponCode": "OFF10",
+      "orderDate": "2024-12-18T21:37:08.947Z"
+    },
+    {
+      "id": "f1db",
+      "items": [
+        {
+          "id": 12,
+          "name": "Egg Curry",
+          "price": 400,
+          "category": "non-veg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 400,
+      "finalAmount": 360,
+      "couponCode": "OFF10",
+      "orderDate": "2024-12-18T21:37:09.204Z"
+    },
+    {
+      "id": "4f77",
+      "items": [
+        {
+          "id": 12,
+          "name": "Egg Curry",
+          "price": 400,
+          "category": "non-veg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 400,
+      "finalAmount": 360,
+      "couponCode": "OFF10",
+      "orderDate": "2024-12-18T21:38:28.740Z"
+    },
+    {
+      "id": "aa16",
+      "items": [
+        {
+          "id": 12,
+          "name": "Egg Curry",
+          "price": 400,
+          "category": "non-veg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 400,
+      "finalAmount": 360,
+      "couponCode": "OFF10",
+      "orderDate": "2024-12-18T21:38:30.323Z"
+    },
+    {
+      "id": "c6a8",
+      "items": [
+        {
+          "id": 12,
+          "name": "Egg Curry",
+          "price": 400,
+          "category": "non-veg",
+          "quantity": 1
+        },
+        {
+          "id": 8,
+          "name": "Aloo Paratha",
+          "price": 150,
+          "category": "veg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 550,
+      "finalAmount": 550,
+      "couponCode": "OFF10",
+      "orderDate": "2024-12-18T21:38:44.131Z"
+    },
+    {
+      "id": "d534",
+      "items": [
+        {
+          "id": 12,
+          "name": "Egg Curry",
+          "price": 400,
+          "category": "non-veg",
+          "quantity": 1
+        },
+        {
+          "id": 8,
+          "name": "Aloo Paratha",
+          "price": 150,
+          "category": "veg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 550,
+      "finalAmount": 550,
+      "couponCode": "OFF10",
+      "orderDate": "2024-12-18T21:38:50.107Z"
+    },
+    {
+      "id": "be71",
+      "items": [
+        {
+          "id": 5,
+          "name": "Mushroom Curry",
+          "price": 350,
+          "category": "veg",
+          "quantity": 1
+        },
+        {
+          "id": 9,
+          "name": "Grilled Chicken",
+          "price": 500,
+          "category": "non-veg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 850,
+      "finalAmount": 765,
+      "couponCode": "OFF10",
+      "orderDate": "2024-12-19T03:56:02.257Z"
+    },
+    {
+      "id": "76dd",
+      "items": [
+        {
+          "id": 9,
+          "name": "Grilled Chicken",
+          "price": 500,
+          "category": "non-veg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 500,
+      "finalAmount": 425,
+      "couponCode": "SAVE15",
+      "orderDate": "2024-12-19T04:33:03.645Z"
+    },
+    {
+      "id": "a9b0",
+      "items": [
+        {
+          "id": 1,
+          "name": "Pancakes",
+          "price": 100,
+          "category": "veg",
+          "quantity": 5
+        }
+      ],
+      "totalAmount": 500,
+      "finalAmount": 450,
+      "couponCode": "OFF10",
+      "orderDate": "2024-12-19T04:55:47.049Z"
+    },
+    {
+      "id": "4499",
+      "items": [
+        {
+          "id": 1,
+          "name": "Pancakes",
+          "price": 100,
+          "category": "veg",
+          "quantity": 5
+        },
+        {
+          "id": 9,
+          "name": "Grilled Chicken",
+          "price": 500,
+          "category": "non-veg",
+          "quantity": 5
+        }
+      ],
+      "totalAmount": 3000,
+      "finalAmount": 3000,
+      "couponCode": "DISCOUNT25",
+      "orderDate": "2024-12-19T04:59:40.457Z"
+    },
+    {
+      "id": "8ea6",
+      "items": [
+        {
+          "id": 1,
+          "name": "Pancakes",
+          "price": 100,
+          "category": "veg",
+          "quantity": 5
+        },
+        {
+          "id": 9,
+          "name": "Grilled Chicken",
+          "price": 500,
+          "category": "non-veg",
+          "quantity": 5
+        },
+        {
+          "id": 1,
+          "name": "Pancakes",
+          "price": 100,
+          "category": "veg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 3100,
+      "finalAmount": 3100,
+      "couponCode": "DISCOUNT25",
+      "orderDate": "2024-12-19T05:00:57.911Z"
+    },
+    {
+      "id": "b967",
+      "items": [
+        {
+          "id": 1,
+          "name": "Pancakes",
+          "price": 100,
+          "category": "veg",
+          "quantity": 5
+        },
+        {
+          "id": 9,
+          "name": "Grilled Chicken",
+          "price": 500,
+          "category": "non-veg",
+          "quantity": 5
+        },
+        {
+          "id": 1,
+          "name": "Pancakes",
+          "price": 100,
+          "category": "veg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 3100,
+      "finalAmount": 3100,
+      "couponCode": "DISCOUNT25",
+      "orderDate": "2024-12-19T05:01:05.560Z"
+    },
+    {
+      "id": "f8d8",
+      "items": [
+        {
+          "id": 1,
+          "name": "Pancakes",
+          "price": 100,
+          "category": "veg",
+          "quantity": 5
+        },
+        {
+          "id": 9,
+          "name": "Grilled Chicken",
+          "price": 500,
+          "category": "non-veg",
+          "quantity": 5
+        },
+        {
+          "id": 1,
+          "name": "Pancakes",
+          "price": 100,
+          "category": "veg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 3100,
+      "finalAmount": 3100,
+      "couponCode": "DISCOUNT25",
+      "orderDate": "2024-12-19T05:01:06.504Z"
+    },
+    {
+      "id": "47ec",
+      "items": [
+        {
+          "id": 1,
+          "name": "Pancakes",
+          "price": 100,
+          "category": "veg",
+          "quantity": 5
+        },
+        {
+          "id": 9,
+          "name": "Grilled Chicken",
+          "price": 500,
+          "category": "non-veg",
+          "quantity": 5
+        },
+        {
+          "id": 1,
+          "name": "Pancakes",
+          "price": 100,
+          "category": "veg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 3100,
+      "finalAmount": 2790,
+      "couponCode": "OFF10",
+      "orderDate": "2024-12-19T05:01:11.632Z"
+    },
+    {
+      "id": "e9a6",
+      "items": [
+        {
+          "id": 1,
+          "name": "Pancakes",
+          "price": 100,
+          "category": "veg",
+          "quantity": 5
+        },
+        {
+          "id": 9,
+          "name": "Grilled Chicken",
+          "price": 500,
+          "category": "non-veg",
+          "quantity": 5
+        },
+        {
+          "id": 1,
+          "name": "Pancakes",
+          "price": 100,
+          "category": "veg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 3100,
+      "finalAmount": 2790,
+      "couponCode": "OFF10",
+      "orderDate": "2024-12-19T05:01:14.152Z"
+    },
+    {
+      "id": "6830",
+      "items": [
+        {
+          "id": 3,
+          "name": "Salad",
+          "price": 300,
+          "category": "veg",
+          "quantity": 3
+        }
+      ],
+      "totalAmount": 900,
+      "finalAmount": 765,
+      "couponCode": "SAVE15",
+      "orderDate": "2024-12-19T05:24:29.964Z"
+    },
+    {
+      "id": "bced",
+      "items": [
+        {
+          "id": 1,
+          "name": "Pancakes",
+          "price": 100,
+          "category": "veg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 100,
+      "finalAmount": 100,
+      "couponCode": "OFF10",
+      "orderDate": "2024-12-19T05:26:46.188Z"
+    },
+    {
+      "id": "e032",
+      "orderId": "ORD-EWYPYB9R0",
+      "items": [
+        {
+          "id": 5,
+          "name": "Mushroom Curry",
+          "price": 350,
+          "category": "veg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 350,
+      "finalAmount": 350,
+      "couponCode": "",
+      "orderDate": "2024-12-19T05:29:30.844Z"
+    },
+    {
+      "id": "06f7",
+      "orderId": "ORD-PWNN3BIUI",
+      "items": [
+        {
+          "id": 4,
+          "name": "Paneer Tikka",
+          "price": 250,
+          "category": "veg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 250,
+      "finalAmount": 250,
+      "couponCode": "BIGSAVE20",
+      "orderDate": "2024-12-19T05:31:27.243Z"
+    },
+    {
+      "id": "66e5",
+      "orderId": "ORD-8VS88PR9F",
+      "items": [
+        {
+          "id": 1,
+          "name": "Pancakes",
+          "price": 100,
+          "category": "veg",
+          "quantity": 1
+        },
+        {
+          "id": 1,
+          "name": "Pancakes",
+          "price": 100,
+          "category": "veg",
+          "quantity": 5
+        }
+      ],
+      "totalAmount": 600,
+      "finalAmount": 600,
+      "couponCode": "OFF10",
+      "orderDate": "2024-12-19T05:33:45.219Z"
+    },
+    {
+      "id": "4a37",
+      "orderId": "ORD-O0M36OOVI",
+      "items": [
+        {
+          "id": 2,
+          "name": "Vegetarian Pizza",
+          "price": 400,
+          "category": "veg",
+          "quantity": 3
+        }
+      ],
+      "totalAmount": 1200,
+      "finalAmount": 960,
+      "couponCode": "BIGSAVE20",
+      "orderDate": "2024-12-19T05:42:47.649Z"
+    },
+    {
+      "id": "e145",
+      "orderId": "ORD-D86DCRA7W",
+      "items": [
+        {
+          "id": 1,
+          "name": "Pancakes",
+          "price": 100,
+          "category": "veg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 100,
+      "finalAmount": 100,
+      "couponCode": "",
+      "orderDate": "2024-12-19T05:43:19.777Z"
+    },
+    {
+      "id": "e452",
+      "orderId": "ORD-NZR766NRU",
+      "items": [
+        {
+          "id": 1,
+          "name": "Pancakes",
+          "price": 100,
+          "category": "veg",
+          "quantity": 3
+        }
+      ],
+      "totalAmount": 300,
+      "finalAmount": 300,
+      "couponCode": "SAVE15",
+      "orderDate": "2024-12-19T06:18:53.157Z"
+    },
+    {
+      "id": "0c09",
+      "orderId": "ORD-9X1CQFE4Z",
+      "items": [
+        {
+          "id": 6,
+          "name": "Veg Biryani",
+          "price": 300,
+          "category": "veg",
+          "quantity": 3
+        }
+      ],
+      "totalAmount": 900,
+      "finalAmount": 810,
+      "couponCode": "WELCOME10",
+      "orderDate": "2024-12-19T09:07:48.748Z"
+    },
+    {
+      "id": "f7c1",
+      "orderId": "ORD-57H23HBEH",
+      "items": [
+        {
+          "id": 2,
+          "name": "Vegetarian Pizza",
+          "price": 400,
+          "category": "veg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 400,
+      "finalAmount": 400,
+      "couponCode": "SAVE15",
+      "orderDate": "2024-12-19T09:26:39.177Z"
+    },
+    {
+      "id": "81d6",
+      "orderId": "ORD-UCPIOXPAX",
+      "items": [
+        {
+          "id": 6,
+          "name": "Veg Biryani",
+          "price": 300,
+          "category": "veg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 300,
+      "finalAmount": 300,
+      "couponCode": "SAVE15",
+      "orderDate": "2024-12-19T10:01:53.797Z"
+    },
+    {
+      "id": "edca",
+      "orderId": "ORD-U06J50Q3N",
+      "items": [
+        {
+          "id": 6,
+          "name": "Veg Biryani",
+          "price": 300,
+          "category": "veg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 300,
+      "finalAmount": 300,
+      "couponCode": "BIGSAVE20",
+      "orderDate": "2024-12-19T10:02:55.605Z"
+    },
+    {
+      "id": "6b0e",
+      "orderId": "ORD-DUCBMC0B9",
+      "items": [
+        {
+          "id": 4,
+          "name": "Paneer Tikka",
+          "price": 250,
+          "category": "veg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 250,
+      "finalAmount": 250,
+      "couponCode": "DISCOUNT25",
+      "orderDate": "2024-12-19T14:06:26.736Z"
+    },
+    {
+      "orderId": "ORD-6798B9X66",
+      "items": [
+        {
+          "id": 8,
+          "name": "Aloo Paratha",
+          "price": 150,
+          "category": "veg",
+          "quantity": 3
+        }
+      ],
+      "totalAmount": 450,
+      "finalAmount": 427.5,
+      "couponCode": "MEAL5",
+      "orderDate": "2024-12-20T04:13:08.188Z",
+      "id": "KnYeudQ"
+    },
+    {
+      "orderId": "ORD-1FYXCE1N5",
+      "items": [
+        {
+          "id": 1,
+          "name": "Pancakes",
+          "price": 100,
+          "category": "veg",
+          "quantity": 5
+        }
+      ],
+      "totalAmount": 500,
+      "finalAmount": 425,
+      "couponCode": "SAVE15",
+      "orderDate": "2024-12-20T06:03:13.673Z",
+      "id": "v9fnLfW"
+    },
+    {
+      "orderId": "ORD-DOLKQH6PB",
+      "items": [
+        {
+          "id": 1,
+          "name": "Pancakes",
+          "price": 100,
+          "category": "veg",
+          "quantity": 4
+        }
+      ],
+      "totalAmount": 400,
+      "finalAmount": 360,
+      "couponCode": "OFF10",
+      "orderDate": "2024-12-20T06:07:00.195Z",
+      "id": "Yh1UpT8"
+    },
+    {
+      "orderId": "ORD-N9T6YPY3C",
+      "items": [
+        {
+          "id": 2,
+          "name": "Vegetarian Pizza",
+          "price": 400,
+          "category": "veg",
+          "quantity": 3
+        }
+      ],
+      "totalAmount": 1200,
+      "finalAmount": 960,
+      "couponCode": "BIGSAVE20",
+      "orderDate": "2024-12-20T06:12:05.097Z",
+      "id": "OFegAQT"
+    },
+    {
+      "orderId": "ORD-KRI1KBVL1",
+      "items": [
+        {
+          "id": 8,
+          "name": "Aloo Paratha",
+          "price": 150,
+          "category": "veg",
+          "quantity": 4
+        }
+      ],
+      "totalAmount": 600,
+      "finalAmount": 510,
+      "couponCode": "SAVE15",
+      "orderDate": "2024-12-20T07:11:45.071Z",
+      "id": "arU-E7A"
+    },
+    {
+      "orderId": "ORD-KG7412ZZ6",
+      "items": [
+        {
+          "id": 7,
+          "name": "Dal Fry",
+          "price": 200,
+          "category": "veg",
+          "quantity": 1
+        },
+        {
+          "id": 13,
+          "name": "Mutton Rogan Josh",
+          "price": 700,
+          "category": "non-veg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 900,
+      "finalAmount": 900,
+      "couponCode": "",
+      "orderDate": "2024-12-20T09:18:41.013Z",
+      "id": "MS8vYD8"
+    },
+    {
+      "orderId": "ORD-8UR918M1L",
+      "items": [
+        {
+          "id": 9,
+          "name": "Grilled Chicken",
+          "price": 500,
+          "category": "non-veg",
+          "quantity": 2
+        }
+      ],
+      "totalAmount": 1000,
+      "finalAmount": 800,
+      "couponCode": "BIGSAVE20",
+      "orderDate": "2024-12-20T09:23:12.147Z",
+      "id": "XrajH6J"
+    }
+  ],
+  "foodItems": {
+    "vegItems": [
+      {
+        "id": 1,
+        "name": "Pancakes",
+        "price": 100,
+        "category": "veg"
+      },
+      {
+        "id": 2,
+        "name": "Vegetarian Pizza",
+        "price": 400,
+        "category": "veg"
+      },
+      {
+        "id": 3,
+        "name": "Salad",
+        "price": 300,
+        "category": "veg"
+      },
+      {
+        "id": 4,
+        "name": "Paneer Tikka",
+        "price": 250,
+        "category": "veg"
+      },
+      {
+        "id": 5,
+        "name": "Mushroom Curry",
+        "price": 350,
+        "category": "veg"
+      },
+      {
+        "id": 6,
+        "name": "Veg Biryani",
+        "price": 300,
+        "category": "veg"
+      },
+      {
+        "id": 7,
+        "name": "Dal Fry",
+        "price": 200,
+        "category": "veg"
+      },
+      {
+        "id": 8,
+        "name": "Aloo Paratha",
+        "price": 150,
+        "category": "veg"
+      }
+    ],
+    "nonVegItems": [
+      {
+        "id": 9,
+        "name": "Grilled Chicken",
+        "price": 500,
+        "category": "non-veg"
+      },
+      {
+        "id": 10,
+        "name": "Chicken Biryani",
+        "price": 500,
+        "category": "non-veg"
+      },
+      {
+        "id": 11,
+        "name": "Fish Curry",
+        "price": 600,
+        "category": "non-veg"
+      },
+      {
+        "id": 12,
+        "name": "Egg Curry",
+        "price": 400,
+        "category": "non-veg"
+      },
+      {
+        "id": 13,
+        "name": "Mutton Rogan Josh",
+        "price": 700,
+        "category": "non-veg"
+      },
+      {
+        "id": 14,
+        "name": "Chicken Tikka",
+        "price": 450,
+        "category": "non-veg"
+      },
+      {
+        "id": 15,
+        "name": "Fish Fry",
+        "price": 550,
+        "category": "non-veg"
+      },
+      {
+        "id": 16,
+        "name": "Tandoori Chicken",
+        "price": 750,
+        "category": "non-veg"
+      }
+    ]
+  },
+  "coupons": [
+    {
+      "id": 1,
+      "code": "SAVE15",
+      "discount": 15,
+      "minAmount": 500
+    },
+    {
+      "id": 2,
+      "code": "OFF10",
+      "discount": 10,
+      "minAmount": 400
+    },
+    {
+      "id": 3,
+      "code": "BIGSAVE20",
+      "discount": 20,
+      "minAmount": 1000
+    },
+    {
+      "id": 4,
+      "code": "MEAL5",
+      "discount": 5,
+      "minAmount": 300
+    },
+    {
+      "id": 5,
+      "code": "DISCOUNT25",
+      "discount": 25,
+      "minAmount": 1500
+    },
+    {
+      "id": 6,
+      "code": "WELCOME10",
+      "discount": 10,
+      "minAmount": 200
+    },
+    {
+      "id": 7,
+      "code": "FAMILY20",
+      "discount": 20,
+      "minAmount": 800
+    }
+  ]
+}
